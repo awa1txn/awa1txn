@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img align="center" src="https://media.tenor.com/rPC8VWI65ucAAAAC/samurai-jack-meditation.gif">
+<img src="https://media.tenor.com/rPC8VWI65ucAAAAC/samurai-jack-meditation.gif">
 </p>
-<a>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=awa1txn&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true" alt="github status"/>
-</a>
+</p>
