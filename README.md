@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"> watch till the end</p>
 <p align="center">
-<img align="center" src="https://archive.org/download/56887LongestGifEverO/56887-longest-gif-ever_o.gif">
+<img align="center" src="https://media.tenor.com/rPC8VWI65ucAAAAC/samurai-jack-meditation.gif">
 </p>
