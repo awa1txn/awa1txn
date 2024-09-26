@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 * 🐳 Containerization: Docker, Kubernetes
 * 📦 Configuration management: Ansible, Terraform
 * CI/CD: Jenkins, GitLab CI/CD, BitBucket
-* ☁️ Cloud platforms: AWS, GCP, Azure
+* ☁️ Cloud platforms: AWS, GCP, Azure, Vercel
 
 **Let's connect:**
 * 🔗 [LinkedIn](https://www.linkedin.com/in/danylo-shapovalov-781a6117b/)
