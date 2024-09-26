@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 * 💻 Programming languages: Python, Bash, Go
 * 🐳 Containerization: Docker, Kubernetes
 * 📦 Configuration management: Ansible, Terraform
-* CI/CD: Jenkins, GitLab CI/CD
+* CI/CD: Jenkins, GitLab CI/CD, BitBucket
 * ☁️ Cloud platforms: AWS, GCP, Azure
 
 **Let's connect:**
