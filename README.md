@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 **Let's connect:**
 * 🔗 [LinkedIn](https://www.linkedin.com/in/danylo-shapovalov-781a6117b/)
-* 📧 [Email](mailto:walton.work@gmail.com)
+* 📧 [Email](mailto:awalton.work@gmail.com)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=awa1txn&theme=dark&hide_border=false)
 
